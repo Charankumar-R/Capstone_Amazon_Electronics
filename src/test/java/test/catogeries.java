@@ -1,5 +1,10 @@
 package test;
 
-public class catogeries {
+import org.testng.annotations.Test;
 
+public class catogeries {
+    @Test
+    public void catogeriesTest() {
+
+    }
 }
